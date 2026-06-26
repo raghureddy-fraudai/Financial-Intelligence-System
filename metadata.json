@@ -1,0 +1,6 @@
+{
+  "name": "AI Banking Document Analyzer",
+  "description": "An enterprise-grade Banking Document Intelligence System featuring real-time visual dashboards, metadata extraction, transaction analytics, fraud risk scorecards, and multi-document RAG chatbot powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
